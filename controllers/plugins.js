@@ -6,4 +6,4 @@ module.exports = function(models, bot) {
       res.json(Object.keys(bot.getPlugins()));
     }
   }
-}
+};

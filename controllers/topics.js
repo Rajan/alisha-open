@@ -120,6 +120,6 @@ module.exports = function(models, bot) {
           });
         });
       });
-    },
+    }
   };
 };

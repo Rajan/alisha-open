@@ -125,7 +125,7 @@ module.exports = function(models, bot) {
       bot.factSystem.db.del(triple, function(err) {
         res.sendStatus(200);
       });
-    },
+    }
 
   };
 };
