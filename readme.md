@@ -1,6 +1,6 @@
 # SSC Editor
 
-An entirly new way to create chatbots using SuperScript. Featuring a built-in realtime chat interface and gambit editor. This repository is a fork of Rob's Super-Script-Editor. Our goal is to add an actual Multilayer Neural Network behind this script and the bot should be able to learn and store it's learnings in a neural network.
+An entirly new way to create chatbots using SuperScript. Featuring a built-in realtime chat interface and gambit editor. This repository is a fork of Rob's Super-Script-Editor. Our goal is to add an actual Multilayer Neural Network behind this script and the bot should be able to learn and store it's learnings in a neural network. We'll also make interacting with Alisha a bit more fun.
 
 ![Realtime Editor](public/img/realtime.png)
 
