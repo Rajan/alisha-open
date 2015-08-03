@@ -1,6 +1,6 @@
 # SSC Editor
 
-An entirly new way to create chatbots using SuperScript. Featuring a built-in realtime chat interface and gambit editor.
+An entirly new way to create chatbots using SuperScript. Featuring a built-in realtime chat interface and gambit editor. This repository is a fork of Rob's Super-Script-Editor. Our goal is to add an actual Multilayer Neural Network behind this script and the bot should be able to learn and store it's learnings in a neural network.
 
 ![Realtime Editor](public/img/realtime.png)
 
@@ -11,7 +11,7 @@ An entirly new way to create chatbots using SuperScript. Featuring a built-in re
 
 We are assuming you have node.js 0.10.x installed and MongoDB.
 
-    git clone https://github.com/silentrob/superscript-editor.git
+    git clone https://github.com/Rajan/alisha-open.git
     cd superscript-editor
     npm install
     npm start
