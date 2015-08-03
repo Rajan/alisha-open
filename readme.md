@@ -12,7 +12,7 @@ An entirly new way to create chatbots using SuperScript. Featuring a built-in re
 We are assuming you have node.js 0.10.x installed and MongoDB.
 
     git clone https://github.com/Rajan/alisha-open.git
-    cd superscript-editor
+    cd alisha-open
     npm install
     npm start
 
