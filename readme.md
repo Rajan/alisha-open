@@ -49,4 +49,5 @@ More information on using SuperScript and this Editor is available at http://sup
 [The MIT License (MIT)](LICENSE.md)
 
 Original Work: Copyright © 2014-2015 Rob Ellis
+
 Modified Work: Copyright © 2015-2016 Rajan Chandi
